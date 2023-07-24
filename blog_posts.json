@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post."
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post."
+    },
+    {
+        "id": 3,
+        "author": "Alice Smith",
+        "title": "Travel Adventures",
+        "content": "Exploring new places is always exciting."
+    },
+    {
+        "id": 4,
+        "author": "Bob Johnson",
+        "title": "Tech Trends",
+        "content": "A look into the latest tech trends."
+    },
+    {
+        "id": 5,
+        "author": "Emily Davis",
+        "title": "Cooking Delights",
+        "content": "Sharing my favorite recipes."
+    },
+    {
+        "id": 6,
+        "author": "Michael Brown",
+        "title": "Fitness Journey",
+        "content": "Transforming my body one step at a time."
+    },
+    {
+        "id": 7,
+        "author": "Sophia Lee",
+        "title": "Book Recommendations",
+        "content": "A list of must-read books."
+    },
+    {
+        "id": 8,
+        "author": "William Clark",
+        "title": "Movie Reviews",
+        "content": "Reviewing the latest films."
+    },
+    {
+        "id": 9,
+        "author": "Olivia Rodriguez",
+        "title": "Gardening Tips",
+        "content": "Growing a beautiful garden."
+    },
+    {
+        "id": 10,
+        "author": "James Wilson",
+        "title": "Photography Journey",
+        "content": "Capturing moments through my lens."
+    },
+    {
+        "id": 11,
+        "author": "1",
+        "title": "1",
+        "content": "1"
+    }
+]
